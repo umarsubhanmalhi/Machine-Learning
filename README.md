@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Techniques
+Machine Learning Projects
