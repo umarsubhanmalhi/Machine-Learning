@@ -1,7 +1,7 @@
 # Machine-Learning
 Machine Learning Projects
 
-## Topic 1 - Simple Time Series Forecasting  
+## Topic 1 - Simple Time Series Forecasting Techniques
 > with 3 datasets - JetRail (by day), Air Passengers (by month), and Wine Sales (by year)
 
 1) [Naive Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Naive%20Approach.ipynb)
