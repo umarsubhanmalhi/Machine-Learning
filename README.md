@@ -11,3 +11,5 @@ Machine Learning Projects
 3) [Moving Average Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Moving%20Average.ipynb)
 
 4) [Simple Exponential Smoothing (SES) Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Simple%20Exponential%20Smoothing.ipynb)
+
+5) [Holt’s Linear Trend Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Holt%E2%80%99s%20Linear%20Trend.ipynb)
