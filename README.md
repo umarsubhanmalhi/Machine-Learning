@@ -15,3 +15,5 @@ Machine Learning Projects
 5) [Holt’s Linear Trend Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Holt%E2%80%99s%20Linear%20Trend.ipynb)
 
 6) [Holt Winters Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Holt-Winters.ipynb)
+
+7) 
