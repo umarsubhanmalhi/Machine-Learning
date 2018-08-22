@@ -18,7 +18,7 @@ Machine Learning Projects
 
 7) [Autoregression (AR) Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Autoregression%20(AR).ipynb)
 
-8) [Autoregressive Moving Average (ARMA) (Python)] - WIP
+8) [Autoregressive Moving Average (ARMA) (Python)] - WIP 
     
 9) [Autoregressive Integrated Moving Average (ARIMA) Approach (Python)] - WIP
 
