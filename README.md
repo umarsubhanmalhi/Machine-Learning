@@ -33,3 +33,13 @@ Machine Learning Projects
 14) [Vector Autoregression Moving-Average with Exogenous Regressors (VARMAX) Approach (Python)] - WIP
 
 15) [Forecast Combinations Approach (Python)] - WIP
+
+## Topic 2 - Advanced Time Series Forecasting Techniques
+
+1) Auto-Arima (R)
+
+2) Auto-Arima (Python) with Pyramid
+
+3) LSTM Time Series with Keras
+
+4) LSTM Time Series with PyTorch
