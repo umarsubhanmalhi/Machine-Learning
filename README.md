@@ -36,6 +36,8 @@ Machine Learning Projects
 
 15) [Forecast Combinations Approach (Python)] - WIP
 
+16) Seasonal Naive Approach (R) - WIP
+
 ## Topic 2 - Advanced Time Series Forecasting Techniques
 
 1) Auto-Arima (R)
