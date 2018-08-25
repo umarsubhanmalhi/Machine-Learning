@@ -4,7 +4,7 @@ Machine Learning Projects
 ## Topic 1 - Simple / Classical Time Series Forecasting Techniques
 > with 3 univariate time series datasets - JetRail (by day), Air Passengers (by month - multiplicative), and Wine Sales (by month - additive) 
 
-0) [Summary - All Simple Models in One Notebook Comparison (Python)] - WIP
+0) [Summary - All Simple Models in One Notebook Comparison (Python)] - WIP 
 
 1) [Naive Forecasting Approach (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Naive%20Approach.ipynb)
 
