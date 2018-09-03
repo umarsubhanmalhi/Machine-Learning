@@ -55,3 +55,5 @@ BONUS 3) [All Simple Models with R] - WIP
 3) LSTM Time Series with Keras
 
 4) LSTM Time Series with PyTorch
+
+5) Boosting Algorithms - Adaboost Regressor (Python) with tsfresh for features extraction 
