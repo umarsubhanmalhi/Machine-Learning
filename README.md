@@ -2,6 +2,8 @@
 Machine Learning Projects
 
 ## Topic 0 - Time Series Transformations Techniques - [Data Cleaning](https://github.com/tristanga/Data-Cleaning)
+> with 5 univariate time series datasets - Chocolate Production, JetRail, Air Passengers, Wine Sales, and Portland Riders
+
 
 ## Topic 1 - Simple / Classical Time Series Forecasting Techniques
 > with 3 univariate time series datasets - JetRail (by day), Air Passengers (by month - multiplicative), and Wine Sales (by month - additive) 
