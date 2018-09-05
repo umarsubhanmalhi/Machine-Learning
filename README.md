@@ -58,4 +58,4 @@ BONUS 3) [All Simple Models with R] - WIP
 
 4) LSTM Time Series with PyTorch
 
-5) [Boosting Algorithms - Adaboost Regressor (Python) with tsfresh for features extraction](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Adaboost%20Regressor.ipynb) 
+5) [Boosting Algorithms - Adaboost Regressor (Python) with Tsfresh](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Adaboost%20Regressor.ipynb) 
