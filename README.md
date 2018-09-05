@@ -47,11 +47,7 @@ BONUS 1) [Data Cleaning] - WIP
 
 16) Seasonal Naive Approach (R) - WIP
 
-BONUS 1) [Exploratory Data Analysis (EDA) Case Study with ARIMA (Python) - Boston Crime] - WIP
-
-BONUS 2) [Exploratory Data Analysis (EDA) Case Study (Python) - TBD] - WIP
-
-BONUS 3) [All Simple Models with R] - WIP
+BONUS 1) [All Simple Models with R] - WIP
 
 ## Topic 2 - Advanced Time Series Forecasting Techniques
 
