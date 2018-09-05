@@ -1,9 +1,12 @@
 # Machine-Learning
 Machine Learning Projects
 
-## Topic 0 - Time Series EDA - Exploration / Transformation Techniques - [Data Cleaning](https://github.com/tristanga/Data-Cleaning)
+## Topic 0 - Time Series EDA - Exploration / Transformation Techniques
 > with 5 univariate time series datasets - Chocolate Production, JetRail, Air Passengers, Wine Sales, and Portland Riders
 
+1) [Time Series EDA Univariate]
+
+BONUS 1) [Data Cleaning] - WIP
 
 ## Topic 1 - Simple / Classical Time Series Forecasting Techniques
 > with 3 univariate time series datasets - JetRail (by day), Air Passengers (by month - multiplicative), and Wine Sales (by month - additive) 
