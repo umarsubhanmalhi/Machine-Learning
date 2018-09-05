@@ -4,7 +4,9 @@ Machine Learning Projects
 ## Topic 0 - Time Series EDA - Exploration / Transformation Techniques
 > with 5 univariate time series datasets - Chocolate Production, JetRail, Air Passengers, Wine Sales, and Portland Riders
 
-1) [Time Series EDA Univariate]
+1) [Time Series EDA Univariate (Python)] - WIP 
+
+2) [Features extration with Tsfresh (Python)] - WIP 
 
 BONUS 1) [Data Cleaning] - WIP
 
