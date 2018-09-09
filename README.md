@@ -6,7 +6,7 @@ Machine Learning Projects
 
 1) [Time Series EDA Univariate (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Exploratory%20Analysis.ipynb) 
 
-2) [Features extration with Tsfresh (Python)] - WIP
+2) [Features extration with Tsfresh (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Features%20extration%20with%20Tsfresh.ipynb) 
 
 BONUS 1) [Data Cleaning] - WIP 
 
