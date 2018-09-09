@@ -8,7 +8,7 @@ Machine Learning Projects
 
 2) [Features extration with Tsfresh (Python)] - WIP   
 
-BONUS 1) [Data Cleaning] - WIP
+BONUS 1) [Data Cleaning] - WIP 
 
 ## Topic 1 - Simple / Classical Time Series Forecasting Techniques
 > with 3 univariate time series datasets - JetRail (by day), Air Passengers (by month - multiplicative), and Wine Sales (by month - additive) 
