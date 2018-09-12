@@ -1,7 +1,7 @@
 # Machine-Learning
 Machine Learning Projects
 
-## Topic 0 - Time Series EDA - Exploration / Transformation Techniques
+## Topic 0 - Time Series EDA - Exploration / Transformation Techniques 
 > with 5 univariate time series datasets - Chocolate Production, JetRail, Air Passengers, Wine Sales, and Portland Riders
 
 1) [Time Series EDA Univariate (Python)](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Exploratory%20Analysis.ipynb) 
