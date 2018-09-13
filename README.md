@@ -63,4 +63,4 @@ BONUS 1) [All Simple Models with R] - WIP
 
 5) [Boosting Algorithm - Adaboost Regressor (Python) with Tsfresh](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Adaboost%20Regressor.ipynb)
 
-6) [Temporal HIErarchical Forecasting with thief package for R]
+6) [Temporal HIErarchical Forecasting with thief package for R](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Temporal%20HIErarchical%20Forecasting.ipynb)
