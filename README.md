@@ -12,6 +12,7 @@ BONUS 1) [Data Cleaning] - WIP
 
 ## Topic 1 - Simple / Classical Time Series Forecasting Techniques
 > with 3 univariate time series datasets - JetRail (by day), Air Passengers (by month - multiplicative), and Wine Sales (by month - additive) 
+
 > with 3 multivariate time series datasets for VAR models - TBD
 
 0) [Summary - All Simple Models in One Notebook Comparison (Python)] - WIP 
