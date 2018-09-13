@@ -67,4 +67,6 @@ BONUS 1) [All Simple Models with R] - WIP
 
 ## Topic 3 - Applied Time Series Business Case - Fisheries and Environmental Data 
 
-> Credit to E. E. Holmes, M. D. Scheuerell, and E. J. Ward - Northwest Fisheries Science Center (NWFSC)
+> Credit to E. E. Holmes, M. D. Scheuerell, and E. J. Ward - NWFSC: Northwest Fisheries Science Centern (https://nwfsc-timeseries.github.io/atsa-labs/)
+
+
