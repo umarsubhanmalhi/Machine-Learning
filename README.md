@@ -64,3 +64,7 @@ BONUS 1) [All Simple Models with R] - WIP
 5) [Boosting Algorithm - Adaboost Regressor (Python) with Tsfresh](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Adaboost%20Regressor.ipynb)
 
 6) [Temporal HIErarchical Forecasting with R](https://github.com/tristanga/Machine-Learning/blob/master/Time%20Series%20Forecasting/Temporal%20HIErarchical%20Forecasting.ipynb)
+
+## Topic 3 - Applied Time Series Business Case - Fisheries and Environmental Data 
+
+> Credit to E. E. Holmes, M. D. Scheuerell, and E. J. Ward - Northwest Fisheries Science Center (NWFSC)
